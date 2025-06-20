@@ -35,7 +35,28 @@ alohida `if` lar bilan tekshiring va har bir holat uchun alohida xabar chiqaring
 **Misol:**
 ```
 Kirish: 30
-Chiqish: 
+Chiqish: tasnif**
+**Vazifa:** Foydalanuvchidan vazn (kg) va bo'y (m) so'rang. BMI ni hisoblang va tasniflang:
+- BMI < 18.5: "Kam vazn"
+- 18.5 ≤ BMI < 25: "Normal vazn"
+- 25 ≤ BMI < 30: "Ortiqcha vazn"  
+- BMI ≥ 30: "Semizlik"
+
+**Formula:** BMI = vazn / (bo'y)²
+
+**Qo'shimcha tekshiruvlar:**
+- Vazn va bo'y musbat bo'lishi kerak
+- Bo'y 0.5-3.0 m oralig'ida bo'lishi kerak
+- Vazn 1-500 kg oralig'ida bo'lishi kerak
+
+**Misol:**
+```
+Vazn: 70
+Bo'y: 1.75
+BMI: 22.86
+Tasnif: Normal vazn
+```
+
 30 soni 2 ga bo'linadi
 30 soni 3 ga bo'linadi
 30 soni 5 ga bo'linadi
@@ -169,24 +190,4 @@ Manfiy masofa kiritilsa, `"Masofa manfiy bo'la olmaydi!"` deb chiqaring.
 
 ---
 
-### 🔹 **5. BMI hisoblash va tasnif**
-**Vazifa:** Foydalanuvchidan vazn (kg) va bo'y (m) so'rang. BMI ni hisoblang va tasniflang:
-- BMI < 18.5: "Kam vazn"
-- 18.5 ≤ BMI < 25: "Normal vazn"
-- 25 ≤ BMI < 30: "Ortiqcha vazn"  
-- BMI ≥ 30: "Semizlik"
-
-**Formula:** BMI = vazn / (bo'y)²
-
-**Qo'shimcha tekshiruvlar:**
-- Vazn va bo'y musbat bo'lishi kerak
-- Bo'y 0.5-3.0 m oralig'ida bo'lishi kerak
-- Vazn 1-500 kg oralig'ida bo'lishi kerak
-
-**Misol:**
-```
-Vazn: 70
-Bo'y: 1.75
-BMI: 22.86
-Tasnif: Normal vazn
-```
+### 🔹 **5. BMI hisoblash va 
