@@ -8,7 +8,10 @@
 **Misol:**
 ```
 Kirish: -5
-Chiqish: 5
+Chiqish:
+### 🔹 **3. Bo'linuvchanlikni tekshirish**
+**Vazifa:** Foydalanuvchidan son kiritsini so'rang. Shu son:
+- 2 ga bo'li 5
 ```
 
 ---
@@ -23,10 +26,7 @@ Chiqish: Ism kiritilmadi
 ```
 
 ---
-
-### 🔹 **3. Bo'linuvchanlikni tekshirish**
-**Vazifa:** Foydalanuvchidan son kiritsini so'rang. Shu son:
-- 2 ga bo'linishini
+nishini
 - 3 ga bo'linishini  
 - 5 ga bo'linishini
 
